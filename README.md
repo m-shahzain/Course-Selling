@@ -13,8 +13,8 @@ A web application for selling online courses. This project allows instructors to
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Please specify if used: Node.js, Express, etc.]
-- **Database:** [Please specify if used: MongoDB, MySQL, etc.]
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
 - **Payment Integration:** [e.g., Stripe, PayPal]
 
 ## Getting Started
