@@ -7,7 +7,6 @@ A web application for selling online courses. This project allows instructors to
 - User authentication (register/login)
 - Instructor dashboard to create and manage courses
 - Student dashboard to browse and enroll in courses
-- Payment integration for course purchases
 - Responsive UI built with HTML, CSS, and JavaScript
 
 ## Tech Stack
@@ -15,7 +14,6 @@ A web application for selling online courses. This project allows instructors to
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Payment Integration:** [e.g., Stripe, PayPal]
 
 ## Getting Started
 
