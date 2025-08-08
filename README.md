@@ -15,6 +15,14 @@ A web application for selling online courses. This project allows instructors to
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 
+## Libraries Used
+
+- **Zod** – Schema validation
+- **jsonwebtoken (JWT)** – Authentication and authorization
+- **Cloudinary** – Image and file uploads/management
+- **bcrypt** – Password hashing and security
+- **dotenv** – Environment variable management
+
 ## Getting Started
 
 1. **Clone the repository**
