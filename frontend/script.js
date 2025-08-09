@@ -1,5 +1,5 @@
 // API Base URL
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'https://course-selling-lime.vercel.app/';
 
 // Global variables
 let currentUser = null;
