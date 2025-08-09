@@ -1,5 +1,5 @@
 // API Base URL
-const API_BASE_URL = 'https://course-selling-mq76hx1bm-shahzains-projects-202c212f.vercel.app/';
+const API_BASE_URL = 'https://course-selling-lime.vercel.app/';
 
 // Global variables
 let currentUser = null;
