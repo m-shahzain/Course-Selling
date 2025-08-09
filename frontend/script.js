@@ -1,5 +1,5 @@
 // API Base URL
-const API_BASE_URL = 'https://course-selling-smoky.vercel.app/';
+const API_BASE_URL = 'http://localhost:3000';
 
 // Global variables
 let currentUser = null;
